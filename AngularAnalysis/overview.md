@@ -1,4 +1,3 @@
-
 # Angular analysis of three particle system. Theoretical aspects.
 
 #### Guidelines
