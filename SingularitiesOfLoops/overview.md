@@ -37,6 +37,7 @@
  * [Course project](http://www.diva-portal.org/smash/get/diva2:678167/FULLTEXT01.pdf) by Hazhar Ghaderi
 
 ## Meeting notes:
-* [31.09.2016] discussion on the literature
-* [07.10.2016](meeting1.md)
-* [21.10.2016](meeting2.md)
+* [24.09.2016] discussion on the literature
+* [31.09.2016](meeting1.md)
+* [07.10.2016](meeting2.md)
+* [21.10.2016](meeting3.md)

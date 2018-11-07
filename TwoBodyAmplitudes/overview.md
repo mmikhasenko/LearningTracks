@@ -32,7 +32,7 @@
  * [K-matrix review](http://inspirehep.net/record/407128)
 
 ## Meeting notes:
-* [24.09.2016] discussion on the literature
+* [17.09.2016] discussion on the literature
 * [31.09.2016](meeting1.md)
 * [07.10.2016](meeting2.md)
 * [21.10.2016](meeting3.md)
