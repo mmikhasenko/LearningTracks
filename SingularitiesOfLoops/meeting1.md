@@ -1,4 +1,4 @@
-## Meeting 1 [1 weeks]
+## Meeting 1 [1 week]
 
 #### Assignment
 1. Complex analysis singularities of functions [S-matrix book]

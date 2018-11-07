@@ -1,4 +1,4 @@
-## Meeting 2 [1 weeks]
+## Meeting 2 [1 week]
 
 #### Assignment
 1. Short 10-15 minutes presentation items 1,2: (Mandelstam plane and Unitairty)
