@@ -6,7 +6,7 @@
   * for partial wave projection amplitude
 3. Analytic structure, resonance phenomena [Grivov]
 4. (*) Relation of analyticity and causality [Itzykson-Zuber, JPAC lectures]
-5. Orbital angular momentum, threshold factors, barrier factors
+5. Orbital angular momentum, threshold factors, barrier factors [Hippel-Quigg]
 6. Common parametrizations
    * Elastic amplitude: K-matrix, N-over-D [Martin-Sperman, Aitchison review]
    * Production amplitude: P-vector, unitarized background [Aitchison review]
@@ -30,6 +30,7 @@
 ### Papers:
  * [Anisovich, Sarantsev](http://inspirehep.net/record/586064)
  * [K-matrix review](http://inspirehep.net/record/407128)
+ * [Hippel-Quigg](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.5.624)
 
 ## Meeting notes:
 * [17.09.2016] discussion on the literature
