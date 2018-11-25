@@ -22,6 +22,7 @@
  * [Aitchison review](http://inspirehep.net/record/1382351)
 
 ### Papers:
+ * [Khuri&Treiman](http://inspirehep.net/record/46908?ln=ru)
  * [Bronzan&Kacser](https://journals.aps.org/pr/pdf/10.1103/PhysRev.132.2703)
  * [Pasquier&Pasquier](https://journals.aps.org/pr/abstract/10.1103/PhysRev.170.1294)
  * [Aitchison&Pasquier](http://inspirehep.net/record/1475893)
