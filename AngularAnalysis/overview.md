@@ -6,7 +6,7 @@
 3. Wigner Angle [Perl]
 4. (*)Zemach tensor formalism [Zemach, Chung, Sarantsev et al.]
 5. Isobar model (IM) [Herndon-Soding-Cashmore, Aitchison]
-  a. General isobar model and resonance-based IM [Herndon et al, Aitchison]
+  a. General isobar model and resonance-based IM [Herndon-Soding-Cashmore, Aitchison]
   b. Isobar model vs Reconstruction Theorem [Stern-Sazdjian-Fuchs]
   c. Two-body unitarity and consistency equations [Khuri-Treiman]
 6. Examples of modern analyses [3pi, Zc, Pc], [JPAC lectures: sheet 4-1]
