@@ -153,3 +153,9 @@ A_{lam1,lam2,lam3} = A(k=3)_{lam1',lam2',lam3'}
     * d_{lam3',lam3}(zeta^3_{3(1)})
 
 ```
+
+
+# References
+
+- [Dalitz-plot decomposition for three-body decays](https://inspirehep.net/literature/1758460): A paper about decomposition of the overall rotation. The wigner rotations are worked out for three-body decays explicitly.
+- [Wigner rotations for cascade reactions](https://arxiv.org/pdf/2409.06913): a paper about general wigner rotations and conventions in cascade decays.
